@@ -1,0 +1,19 @@
+{
+  "name": "@fictivekin/omnitool",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fictivekin/omnitool.git"
+  },
+  "author": "Bedrich Aquino <bedrich@fictivekin.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fictivekin/omnitool/issues"
+  },
+  "homepage": "https://github.com/fictivekin/omnitool#readme"
+}
